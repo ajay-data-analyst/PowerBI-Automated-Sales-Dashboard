@@ -12,19 +12,19 @@ The dashboard automatically updates when new monthly Excel files are added to a 
 
 ### Overview Dashboard
 
-![Overview](Screenshots/overview.png)
+![Overview](Screenshots/Overview.png)
 
 ---
 
 ### Product Performance Dashboard
 
-![Product](Screenshots/product_performance.png)
+![Product](Screenshots/Product_Performance.png)
 
 ---
 
 ### Regional & Profit Insights Dashboard
 
-![Regional](Screenshots/regional_profit_insights.png)
+![Regional](Screenshots/Regional_Profit_Insights.png)
 
 ---
 
